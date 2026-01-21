@@ -1,0 +1,101 @@
+ExpenseID,ExpenseDate,Department,Category,CostType,Amount
+EX-200000,2025-11-26,IT,Salaries,Fixed,12789.53
+EX-200001,2024-10-07,Finance,Utilities,Fixed,2030.79
+EX-200002,2024-07-13,HR,Utilities,Fixed,1872.42
+EX-200003,2024-07-13,Marketing,Rent,Fixed,9212.27
+EX-200004,2025-10-28,Marketing,Training,Variable,2030.61
+EX-200005,2024-04-02,finance,Travel,Variable,1797.86
+EX-200006,2025-11-02,Operations,Training,Variable,1320.45
+EX-200007,2024-03-01,IT,Depreciation,Fixed,3218.62
+EX-200008,2025-09-25,Finance,Marketing Ads,Variable,9176.84
+EX-200009,2024-02-20,IT,Utilities,Fixed,5200
+EX-200010,2025-02-06,Sales,Marketing Ads,Variable,10158.6
+EX-200011,2024-01-05,Sales,Marketing Ads,Variable,6280.17
+EX-200012,2025-04-10,IT,Marketing Ads,Variable,10472.09
+EX-200013,2025-08-26,Finance,Utilities,Fixed,2858.37
+EX-200014,2025-11-12,IT,Software,Fixed,2459.94
+EX-200015,2025-06-17,Finance,Depreciation,Fixed,3892.22
+EX-200016,2025-02-08,Finance,Depreciation,Fixed,5508.67
+EX-200017,2025-05-27,HR,Salaries,Fixed,25751.96
+EX-200018,2025-10-06,Finance, Rent,Variable,1528.7
+EX-200019,2024-08-20,Operations,Training,Variable,1549.13
+EX-200020,2025-06-07,Finance,Logistics,Variable,7133.05
+EX-200021,2024-12-11,Finance,Training,Variable,1692.54
+EX-200022,2024-02-15,Finance,Utilities,Fixed,1573.91
+EX-200023,2025-06-29,Sales,Travel,Variable,2842.95
+EX-200024,2024-03-18,Operations,Rent,Fixed,9880.85
+EX-200025,2025-12-30,Operations,Logistics,Variable,5599.34
+EX-200026,2024-03-13,IT,Rent,Fixed,8987.54
+EX-200027,2024-09-05,HR,Depreciation,Fixed,2521.96
+EX-200028,2024-02-16,Finance,Rent,Fixed,10563.91
+EX-200029,2024-04-30,Marketing,Rent,Fixed,15629.35
+EX-200030,2024-08-01,HR,Logistics,Variable,4249.14
+EX-200031,2024-08-26,HR,Salaries,Fixed,14365.57
+EX-200032,2024-02-25,Operations,Marketing Ads,Variable,6331.3
+EX-200033,,HR,Training,Variable,1595.48
+EX-200034,2024-04-16,Finance,Training,Variable,2216.98
+EX-200035,2024-02-17,Finance,Utilities,Fixed,2532.73
+EX-200036,2025-07-26,Sales,Logistics,Variable,5507.87
+EX-200037,2024-12-02,Finance,Utilities,Fixed,3436.42
+EX-200038,2024-01-26,Finance,Travel,Variable,2163.13
+EX-200039,2024-09-13,Operations,Travel,Variable,1532.03
+EX-200040,2024-01-08,Finance,Utilities,Fixed,2174.09
+EX-200041,2025-09-16,Sales,Logistics,Variable,4394.72
+EX-200042,2024-09-09,Marketing,Utilities,Fixed,2393.97
+EX-200043,2025-11-22,Operations,Training,Variable,1476.17
+EX-200044,2025-12-19,Marketing,Software,Fixed,4619.31
+EX-200045,2024-10-29,Operations,Rent,Fixed,10973.38
+EX-200046,2025-09-30,IT,Software,Fixed,3574.93
+EX-200047,2024-02-25,HR,Logistics,Variable,5812.39
+EX-200048,2025-12-26,IT,Software,Fixed,3289.84
+EX-200049,2025-06-09,Finance,Travel,Variable,2705.82
+EX-200050,2025-04-18,Marketing,Depreciation,Fixed,4514.83
+EX-200051,2024-01-28,Finance,Rent,Fixed,10375.68
+EX-200052,2024-03-18,HR,Marketing Ads,Variable,9941.23
+EX-200053,2024-08-03,Operations,Logistics,Variable,5374.41
+EX-200054,2025-01-20,HR,Rent,Fixed,12972.12
+EX-200055,2024-12-30,Sales,Software,Fixed,3615.43
+EX-200056,2025-10-27,HR,Travel,Variable,2094.62
+EX-200057,2025-06-09,Sales,Salaries,Fixed,23198.77
+EX-200058,2025-11-29,HR,Marketing Ads,Variable,5541.47
+EX-200059,2024-11-07,Sales,Rent,Fixed,10811.12
+EX-200060,2024-01-07,Marketing,Travel,Variable,1335.91
+EX-200061,2024-01-03,Finance,Travel,Variable,2555.84
+EX-200062,2025-09-14,Finance,Software,Fixed,2957.75
+EX-200063,2024-12-28,IT,Training,Variable,2111.53
+EX-200064,2025-05-22,Finance,Software,Fixed,3758.72
+EX-200065,2024-09-30,Operations,Training,Variable,1981.01
+EX-200066,2025-05-20,HR,Training,Variable,2221.56
+EX-200067,2024-01-15,IT,Marketing Ads,Variable,10846.48
+EX-200068,2024-07-10,Operations,Software,Fixed,4831.03
+EX-200069,2025-09-22,Operations,Salaries,Fixed,17409.35
+EX-200070,2025-04-29,Sales,Utilities,Fixed,2741.38
+EX-200071,2024-01-28,Finance,Utilities,Fixed,2071.25
+EX-200072,2025-12-14,Marketing,Software,Fixed,2717.76
+EX-200073,2024-02-08,Marketing,Software,Fixed,3692.35
+EX-200074,2024-09-29,IT,Marketing Ads,Variable,9084.35
+EX-200075,2024-08-18,Marketing,Software,Fixed,3168.7
+EX-200076,2024-03-26,HR,Training,Variable,1668.75
+EX-200077,2025-04-18,Marketing,Travel,Variable,2797.43
+EX-200078,2024-05-05,IT,Travel,Variable,2202.1
+EX-200079,2025-06-20,Marketing,Training,Variable,1873.1
+EX-200080,2024-05-24,HR,Logistics,Variable,6623.92
+EX-200081,2025-06-08,Sales,Training,Variable,2234.78
+EX-200082,2024-07-30,IT,Salaries,Fixed,20571.8
+EX-200083,2024-01-25,Sales,Depreciation,Fixed,5304.66
+EX-200084,2025-08-02,Sales,Rent,Fixed,17596.61
+EX-200085,2025-01-28,Sales,Training,Variable,2174.95
+EX-200086,2024-03-07,Operations,Software,Fixed,2544.41
+EX-200087,2024-08-20,Finance,Software,Fixed,3380.14
+EX-200088,2024-04-18,Operations,Marketing Ads,Variable,7132.73
+EX-200089,2024-05-25,Finance,Training,Variable,1017.35
+EX-200090,2024-04-20,Sales,Marketing Ads,Variable,9359.33
+EX-200091,2024-08-15,IT,Training,Variable,1893.47
+EX-200092,2024-04-20,Finance,Rent,Fixed,16359.78
+EX-200093,2025-04-14,HR,Depreciation,Fixed,2842.0
+EX-200094,2024-02-03,HR,Travel,Variable,2777.6
+EX-200095,2025-09-14,Marketing,Utilities,Fixed,2946.58
+EX-200096,2025-01-03,Finance,Training,Variable,1850.33
+EX-200097,2025-08-17,IT,Depreciation,Fixed,5678.25
+EX-200098,2025-07-07,Operations,Travel,Variable,2324.57
+EX-200099,2025-02-28,Sales,Logistics,Variable,4511.4
